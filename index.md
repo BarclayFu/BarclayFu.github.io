@@ -1,10 +1,10 @@
-## Welcome to my base
+## Welcome to My Personal Blog!
 
 Hi friend! Hope you like my website!
 
 朋友你好啊！希望你喜欢我的网站！
 
-### Markdown
+### About me
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -36,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 My Email:_fusizhe007@126.gmail.com_
 
-Linkedin:www.linkedin.com/in/思哲-付-3b5a88143
+Linkedin:_www.linkedin.com/in/思哲-付-3b5a88143_
