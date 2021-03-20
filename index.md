@@ -5,15 +5,15 @@ Hi friend! Hope you like my website!
 朋友你好啊！希望你喜欢我的网站！
 
 ### About me
-:heart::sagittarius: Born and grow up in **Shenyang(Mukden)**;
+Born and grow up in **Shenyang(Mukden)**;
 
-:man_student: Senior student of Statistics Department of Zhengzhou University Business School; 
+Senior student of Statistics Department of Zhengzhou University Business School; 
 
-:video_game: Switch and Steam player; 
+Switch and Steam player; 
 
-:writing_hand: Self-study Japanese；
+Self-study Japanese；
 
-:teacher: Applying for Graduate School in North America;
+Applying for Graduate School in North America;
 
 ```markdown
 Recently, I have been an intern in Volkswagen’s SGK&Investment Controlling department, and obtained IBM Data Analyst Certificate during off-hours. I am still waiting for graduate admission, and hope to enter my dream research group this year. 
