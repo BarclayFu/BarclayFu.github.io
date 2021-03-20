@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my personal website
 
-You can use the [editor on GitHub](https://github.com/BarclayFu/BarclayFu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi friend! It must be destiny that made us meet here. Hope you like my website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+朋友你好啊！一定是命运让我们于此邂逅，希望你喜欢我的网站！
 
 ### Markdown
 
