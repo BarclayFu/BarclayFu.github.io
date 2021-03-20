@@ -27,15 +27,19 @@ Apart from that, these are my recent interests. If you are also interested in th
 - Bayonetta(Old Game, still love it)
 
 # Book List
+
 - Standard Japanese(I am studying Japanese recently~)
 - National Economic Statistics(Prepare for graduation thesis.)
 - Data mining based on SPSS Modeler(This is actually my previous university textbook, and some of the methods in the book are very interesting. The machine learning theory mentioned in the book also attracted me)
+
+```
 
 This is my recent life, how about you? Welcome to contact me! I have been busy lately so I can’t guarantee a reply, but thank you for your message！ (if any)
 
 ### Play With Me!
 
 Steam: 惣流·アスカ·ラングレ (950678021)
+
 Switch: Barclay (SW-5936-6466-7777)
 
 
