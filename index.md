@@ -5,35 +5,40 @@ Hi friend! Hope you like my website!
 朋友你好啊！希望你喜欢我的网站！
 
 ### About me
+Born and grow up in Shenyang(Mukden);
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Senior student of Statistics Department of Zhengzhou University Business School; 
+
+Switch and steam player;
+
+Self-study Japanese；
+
+Applying for Graduate School in North America;
 
 ```markdown
-Syntax highlighted code block
+Recently, I have been an intern in Volkswagen’s SGK&Investment Controlling department, and obtained IBM Data Analyst Certificate during off-hours. I am still waiting for graduate admission, and hope to enter my dream research group this year. 
 
-# Header 1
-## Header 2
-### Header 3
+Apart from that, these are my recent interests. If you are also interested in them, please feel free to contact me~ I love to meet people who share the same interests with me!
+# Game List
 
-- Bulleted
-- List
+- Genshin Impact(~~No Pull Today!~~)
+- NieR Replicant ver.1.22474487139...(I really look forward to this work. I love the music from Nier)
+- Fitness Boxing 2(Well...Summer is coming, so...I keep exercising almost every day)
+- Bayonetta(Old Game, still love it)
 
-1. Numbered
-2. List
+# Book List
+- Standard Japanese(I am studying Japanese recently~)
+- National Economic Statistics(Prepare for graduation thesis.)
+- Data mining based on SPSS Modeler(This is actually my previous university textbook, and some of the methods in the book are very interesting. The machine learning theory mentioned in the book also attracted me)
 
-**Bold** and _Italic_ and `Code` text
+### Play With Me!
 
-[Link](url) and ![Image](src)
-```
+Steam: 惣流·アスカ·ラングレ (950678021)
+Switch: Barclay (SW-5936-6466-7777)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BarclayFu/BarclayFu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact Me!
 
-My Email:_fusizhe007@126.gmail.com_
+My Email:_[fusizhe007@gmail.com]_(fusizhe007@gmail.com)
 
-Linkedin:_www.linkedin.com/in/思哲-付-3b5a88143_
+Linkedin:_[www.linkedin.com/in/思哲-付-3b5a88143]_(www.linkedin.com/in/思哲-付-3b5a88143)
