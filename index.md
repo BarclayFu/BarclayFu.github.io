@@ -5,23 +5,24 @@ Hi friend! Hope you like my website!
 朋友你好啊！希望你喜欢我的网站！
 
 ### About me
-Born and grow up in Shenyang(Mukden);
+:heart::sagittarius: Born and grow up in **Shenyang(Mukden)**;
 
-Senior student of Statistics Department of Zhengzhou University Business School; 
+:man_student: Senior student of Statistics Department of Zhengzhou University Business School; 
 
-Switch and steam player;
+:video_game: Switch and Steam player; 
 
-Self-study Japanese；
+:writing_hand: Self-study Japanese；
 
-Applying for Graduate School in North America;
+:teacher: Applying for Graduate School in North America;
 
 ```markdown
 Recently, I have been an intern in Volkswagen’s SGK&Investment Controlling department, and obtained IBM Data Analyst Certificate during off-hours. I am still waiting for graduate admission, and hope to enter my dream research group this year. 
 
 Apart from that, these are my recent interests. If you are also interested in them, please feel free to contact me~ I love to meet people who share the same interests with me!
+
 # Game List
 
-- Genshin Impact(~~No Pull Today!~~)
+- Genshin Impact (No Pull Today!)
 - NieR Replicant ver.1.22474487139...(I really look forward to this work. I love the music from Nier)
 - Fitness Boxing 2(Well...Summer is coming, so...I keep exercising almost every day)
 - Bayonetta(Old Game, still love it)
@@ -45,6 +46,6 @@ Switch: Barclay (SW-5936-6466-7777)
 
 ### Contact Me!
 
-My Email:_[fusizhe007@gmail.com]_(fusizhe007@gmail.com)
+My Email:_fusizhe007@gmail.com_
 
-Linkedin:_[www.linkedin.com/in/思哲-付-3b5a88143]_(www.linkedin.com/in/思哲-付-3b5a88143)
+Linkedin:_www.linkedin.com/in/思哲-付-3b5a88143_
