@@ -33,6 +33,21 @@ Apart from that, these are my recent interests. If you are also interested in th
 - National Economic Statistics(Prepare for graduation thesis.)
 - Data mining based on SPSS Modeler(This is actually my previous university textbook, and some of the methods in the book are very interesting. The machine learning theory mentioned in the book also attracted me)
 
+# Anime List
+
+- 呪術廻戦(Jujutsu Kaisen) (My favorite animation recently.)
+- Re：ゼロから始める異世界生活(Re:Zero kara Hajimeru Isekai Seikatsu) (To be honest, I didn’t expect the plot of this anime to be so wonderful at first. It is really great.)
+- 堀さんと宮村くん(Horimiya) (It reminds me of my high school life. Youth always fades too fast, right?)
+
+# Music List
+
+- 39 feat. 初音ミク [https://youtu.be/ecU_uJRzhfk] 
+(This song has been released for a long time. But I have always liked it. I used Vocaloid in high school and posted my work on BiliBili.com. Hatsune Miku has become a cultural symbol. I am glad that I can listen to and create a virtual singer in this era)
+- 『One Last Kiss』 宇多田ヒカル [https://youtu.be/HdQCWXh3XXU]
+(さようなら、すべてのエヴァンゲリオン Farewell, all of the Evangelion)
+- BB's Theme (from Death Stranding) [https://youtu.be/Ghk1RFr51xo]
+(Watch that star die. Eons without you.…… I'll wait and soon. We're stranded on the beach. In our dream.)
+
 ```
 
 This is my recent life, how about you? Welcome to contact me! I have been busy lately so I can’t guarantee a reply, but thank you for your message！ (if any)
