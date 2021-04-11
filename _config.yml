@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
+plugins:
+  - jekyll-seo-tag
 # Google Analytics
 google_analytics: G-PZCQMDKHT6
