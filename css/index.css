@@ -1605,7 +1605,7 @@ blockquote footer cite:before {
 blockquote > :last-child {
   margin-bottom: 0 !important;
 }
-.anime-card {
+.music-card {
   border: 1px solid #ddd;
   border-radius: 10px;
   overflow: hidden;
@@ -1623,16 +1623,70 @@ blockquote > :last-child {
   -webkit-align-items: center;
   align-items: center;
 }
-.anime-card img {
-  width: 150px;
-  height: auto;
-  border-radius: 10px 0 0 10px;
+.music-card img {
+  width: auto; /* 图片宽度设置为100%，使其填满容器宽度 */
+  height: 192px; /* 高度自动，保持图片比例 */
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  object-fit: cover; /* 覆盖整个元素区域，如果图片比例不对，可能会被裁剪 */
 }
-.anime-card .anime-info {
+.music-card .music-info {
   padding: 15px;
 }
-.anime-card .anime-info h3 {
+.music-card .music-info h3 {
   margin-top: 0;
+}
+.anime-card {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex; /* 定义一个flex容器 */
+  border: 1px solid #ccc; /* 为卡片添加边框 */
+  margin: 10px; /* 为卡片添加外边距 */
+}
+.anime-card > div {
+  margin: 10px;
+  padding: 10px; /*为卡片内的每个div添加内边距 */
+}
+.anime-card img {
+  width: 152px; /* 设置图片宽度 */
+  height: 192px; /* 设置图片高度 */
+  object-fit: cover; /* 如果图片本身大小不匹配，则会裁剪以适应 */
+}
+.anime-info {
+  -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -o-box-flex: 1;
+  box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1; /* 使信息部分占据剩余空间 */
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex; /* 定义一个flex容器 */
+  -webkit-box-orient: vertical;
+  -moz-box-orient: vertical;
+  -o-box-orient: vertical;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column; /* 使内容垂直排列 */
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -o-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center; /* 垂直居中对齐内容 */
+}
+.anime-info h3 {
+  margin: 0 0 10px 0; /* 为标题添加下边距 */
+}
+.anime-info p {
+  margin: 0; /* 移除段落的默认外边距 */
 }
 :root {
   --hl-color: #90a4ae;
