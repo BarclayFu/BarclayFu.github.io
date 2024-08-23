@@ -1569,6 +1569,13 @@ a {
 a:hover {
   color: #78645d;
 }
+#site-title,
+#site-subtitle,
+.site-name,
+#aside-content .author-info__name,
+#aside-content .author-info__description {
+  font-family: Space Mono;
+}
 .is-center {
   text-align: center;
 }
